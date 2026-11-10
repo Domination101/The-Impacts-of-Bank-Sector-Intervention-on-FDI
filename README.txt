@@ -2,8 +2,6 @@ CAPSTONE DETAILS:
 
 Dissertation Title: The Impacts of Financial Crisis Bailouts on Inward Foreign Direct Investment
 
-Student Name: Laeg T. Winder
-
 CODE DETAILS:
 Software: R version 4.5.1
 
